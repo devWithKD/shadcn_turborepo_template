@@ -1,5 +1,5 @@
 {
-  "name": "@cyberdreams/ui",
+  "name": "@repo/ui",
   "version": "0.0.0",
   "type": "module",
   "private": true,
@@ -24,8 +24,8 @@
     "@types/node": "^22.9.0",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@cyberdreams/eslint-config": "0.0.0",
-    "@cyberdreams/typescript-config": "0.0.0",
+    "@repo/eslint-config": "workspace:*",
+    "@repo/typescript-config": "workspace:*",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
     "react": "^19.0.0",

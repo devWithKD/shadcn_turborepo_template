@@ -11,10 +11,10 @@
   },
   "iconLibrary": "lucide",
   "aliases": {
-    "components": "@cyberdreams/ui/components",
-    "utils": "@cyberdreams/ui/lib/utils",
-    "hooks": "@cyberdreams/ui/hooks",
-    "lib": "@cyberdreams/ui/lib",
-    "ui": "@cyberdreams/ui/components"
+    "components": "@repo/ui/components",
+    "utils": "@repo/ui/lib/utils",
+    "hooks": "@repo/ui/hooks",
+    "lib": "@repo/ui/lib",
+    "ui": "@repo/ui/components"
   }
 }
